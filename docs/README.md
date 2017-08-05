@@ -4,9 +4,7 @@ A script that automatically reads from a schedule (excel file) and enters entrie
 
 ## Getting Started
 
-1. Install git
-2. $ git clone git@github.com:pconwell/worksheets-clean.git
-3. ...
+1. git@github.com:pconwell/excel-sharepoint-schedule.git
 
 ### Prerequisites
 
